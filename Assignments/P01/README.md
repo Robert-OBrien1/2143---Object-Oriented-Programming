@@ -12,7 +12,7 @@ This Program implements a stack data structure to allow a user to read from a fi
 
 ### Instructions
 
-- Download and use implement the [input file.]()
+- Download and use implement the [input file.](https://github.com/Robert-OBrien1/2143-OOP-OBrien/blob/master/Assignments/P01/input.txt)
 
 ### Example Command
 
