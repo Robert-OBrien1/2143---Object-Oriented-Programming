@@ -17,7 +17,7 @@
 *       Peeling bananas 
 * Files:
 *       main.cpp        : main driver
-*       Stack.cpp       : class header and implementation
+*       Stack.hpp       : class header and implementation
 *       input.txt       : commands and values to be read
 * 
 *****************************************************************************/
