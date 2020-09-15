@@ -20,4 +20,4 @@ This Program implements a stack data structure to allow a user to read from a fi
 
 ### Example Command
 
-- N?A.
+- N/A.
