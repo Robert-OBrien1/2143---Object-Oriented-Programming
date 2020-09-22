@@ -19,7 +19,7 @@
 ### Class Variable
 > A class variable is any variable declared with the static modifier of which a single copy exists, regardless of how many instances of the class exist.
 
-### Compositino
+### Composition
 > A way to combine objects or data types into more complex ones.
 
 ### Encapsulation
