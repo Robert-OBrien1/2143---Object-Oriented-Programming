@@ -2,7 +2,7 @@
 ### Robert O'Brien
 ### Description:
 
-This is a snipet of a blackjack game. The purpose of this assignment is to fix a swap method in the hand class.
+This is a snippet of a blackjack game. The purpose of this assignment is to fix a swap method in the hand class.
 
 ### Files
 
