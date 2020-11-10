@@ -6,6 +6,8 @@ This is a snipet of a blackjack game. The purpose of this assignment is to fix a
 
 ### Files
 
-|   #   | File                                                                                               | Description                      |
-| :---: | -------------------------------------------------------------------------------------------------- | -------------------------------- |
-|   1   | [main.cpp](https://github.com/Robert-OBrien1/2143-OOP-OBrien/blob/master/Assignments/H01/main.cpp) | Main driver of my list program . |
+|   #   | File                                                                                                    | Description                      |
+| :---: | --------------------------------------------------------------------------------------------------------| -------------------------------- |
+|   1   | [main.cpp](https://github.com/Robert-OBrien1/2143-OOP-OBrien/blob/master/Assignments/H03/main.cpp)      | Main driver of my list program . |
+|   2   | [blackjack.hpp](https://github.com/Robert-OBrien1/2143-OOP-OBrien/blob/master/Assignments/H03/main.cpp) | Implementation of blackjack    . |
+|   3   | [banner.md](https://github.com/Robert-OBrien1/2143-OOP-OBrien/blob/master/Assignments/P01/banner.md)    | STudent banner                   |
